@@ -3,8 +3,11 @@
 This is a simple LaTeX template for writing a WPI IQP report paper. The style is
 based on [WPI's IQP writing guidelines](https://www.wpi.edu/sites/default/files/IQP_Writing_Guidelines.pdf).
 
+Because IQP proposals and final reports are slightly different, I have chosen to
+include a template for each, found in their respective folders.
+
 If you have `latexmk` you can compile the document with the command 
-`latexmk -pdf -bibtex main`.
+`latexmk -pdf -bibtex proposal`.
 
 Comments and suggestions welcome! Just raise an issue on the GitHub page.
 
